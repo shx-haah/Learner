@@ -3,4 +3,4 @@ Here are my experienments and reports completed  for certain lectures.
 
 Content
 
-- EM22129: Game Theory
+- EM22129: Introduction to Game Theory
