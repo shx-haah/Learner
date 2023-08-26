@@ -1,5 +1,5 @@
 # EM22129: 策略思维--带你走进博弈的奇妙世界
-# EM22129: Game Theory
+# EM22129: Introduction to Game Theory
 
 ## 2018春季	经济与管理学院
 
