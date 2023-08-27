@@ -11,4 +11,4 @@ while j < 4
     j = j + 1 ;
     q = q .* (2 : 2 : 30) ;
 end
-legend('order 1','order 2','order 3','order 4') ;
+% legend('order 1','order 2','order 3','order 4') ;
