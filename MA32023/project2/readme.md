@@ -1,8 +1,8 @@
 # Description
 
-Experienment 1: studied how different interpolate node picking (equidistant and Chebyshev nodes) would affect the results of interpolation.
-Experienment 2: studied different methods of interpolation, including polynomial, linear, Hermitian and spline function interpolation. 
-Experienment 3: studied the difference between linear interpolation and cubic periodic spline function interpolation for a closed graph. 
+Experiment 1: studied how different interpolate node picking (equidistant and Chebyshev nodes) would affect the results of interpolation.
+Experiment 2: studied different methods of interpolation, including polynomial, linear, Hermitian and spline function interpolation. 
+Experiment 3: studied the difference between linear interpolation and cubic periodic spline function interpolation for a closed graph. 
 
 ## Content 
 - Report: *Project-2.docx*
