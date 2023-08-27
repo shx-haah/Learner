@@ -5,3 +5,4 @@ Content
 
 - EM22129: Introduction to Game Theory
 - MA32023: Approximation Theory and Methods
+- MA34001: Internship Project
