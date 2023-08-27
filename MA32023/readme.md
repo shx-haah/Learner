@@ -9,7 +9,7 @@ may showed within the reports of experiments.
 NOTE THAT: A MATLAB file named as *projectA_B_C.m* is 
 the source code for *the C section of experiment B in Project-A*.
 
-This lecture experiments involves 5 projects focusing on: 
+This lecture experiments involves 5 projects focused on: 
 - Error analysis
 - Different methods of interpolation and different interpolate node picking
 - Multivariate interpolation
