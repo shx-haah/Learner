@@ -3,7 +3,7 @@
 
 ## Spring 2018, School of Management
 
-Since this project was created long after the lecture, many details have been lost. 
+Since this project was created long after the lecture, many details have been lost. Some statements of the question in homework or tests are no longer known. 
 
 This lecture is about *game theory* and I was mostly fascinated by 
 a single problem: a varied version of the claasic game, *Rock, Scissors and Paper (RSP)*. So I went further 
