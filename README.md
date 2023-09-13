@@ -1,8 +1,9 @@
 # Lecture Projects
-Here are my experienments and reports for certain lectures. 
+
+Here are my experienments and reports for certain lectures.
 
 ## Content
 
-- EM22129: Introduction to Game Theory
-- MA32023: Approximation Theory and Methods
-- MA34001: Internship Project
+- EM22129: Approaching to Game Theory
+- MA32023: Numerical Approximation
+- MA34001: Specialized Production Practice

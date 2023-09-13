@@ -1,17 +1,19 @@
 # EM22129: 策略思维--带你走进博弈的奇妙世界
-# EM22129: Introduction to Game Theory
+
+# EM22129: Approaching to Game Theory
 
 ## Spring 2018, School of Management
 
-Since this project was created long after the lecture, many details have been lost. Some statements of the question in homework or tests are no longer known. 
+Since this project was created long after the lecture, many details have been lost. Some statements of the question in homework or tests are no longer known.
 
-This lecture is about *game theory* and I was mostly fascinated by 
-a single problem: a varied version of the claasic game, *Rock, Scissors and Paper (RSP)*. So I went further 
+This lecture is about *game theory* and I was mostly fascinated by
+a single problem: a varied version of the claasic game, *Rock, Scissors and Paper (RSP)*. So I went further
 on studying the stratagy for this game, via evolutionary view. After reading a related resource[^1], I refined my approaches
-and apply it to different questions. Finally, all above together with other material from the lecture are forged into my report. 
+and apply it to different questions. Finally, all above together with other material from the lecture are forged into my report.
 
 ---
-Note for *2-演化博弈在两个参与者的博弈中的应用.doc* : 
+
+Note for *2-演化博弈在两个参与者的博弈中的应用.doc* :
 
 结合文章有下面几点想法
 
@@ -24,8 +26,9 @@ Note for *2-演化博弈在两个参与者的博弈中的应用.doc* :
 另外，通过改良得到了一般性的演化博弈模拟程序，可以模拟任何两个参与者的完全知识静态博弈，并对第一节课所发的卷子中的一些题目进行了模拟。
 
 ---
-Note for *3-2018春博弈论选修课.docx* : 
+
+Note for *3-2018春博弈论选修课.docx* :
 
 FINAL REPORT
 
-[^1]:*Alexander, J. McKenzie, "Evolutionary Game Theory", The Stanford Encyclopedia of Philosophy (Summer 2021 Edition), Edward N. Zalta (ed.)*, URL = <https://plato.stanford.edu/archives/sum2021/entries/game-evolutionary/>.
+[^1]: *Alexander, J. McKenzie, "Evolutionary Game Theory", The Stanford Encyclopedia of Philosophy (Summer 2021 Edition), Edward N. Zalta (ed.)*, URL = [https://plato.stanford.edu/archives/sum2021/entries/game-evolutionary/](https://plato.stanford.edu/archives/sum2021/entries/game-evolutionary/).
